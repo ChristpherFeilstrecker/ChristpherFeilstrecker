@@ -1,7 +1,6 @@
 
 
 ### Olá! Eu Sou Christopher Feilstrecker! 👋
-## Contato whats (51) 989477910
 
 [![instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-feilstrecker/)
 
